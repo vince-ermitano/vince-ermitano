@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently an undergraduate student at UC San Diego studying Computer Science.<br>My focuses are in web and front-end development. I am also currently learning about<br>UI/UX design. Come and view some of my work!
+I'm a graduate from UC San Diego with an undergrad degree in Computer Science.<br>My focuses are in web and full-stack development. Come and view some of my work!
 
 
 ## 🌐 Socials:
